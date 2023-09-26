@@ -16,7 +16,7 @@ My experience has equipped me with a wide range of skills and knowledge, includi
 - 🧰 Proficiency in R, Python, SAS, and Dataiku
 
 ## Connect with Me
-- 👋 Hi, I'm [@IELamri](https://github.com/IELamri).
+- 👋 Hi, I'm [@IELamri](https://www.linkedin.com/in/ichrak-el-amri/).
 - 👀 I'm interested in exploring innovative solutions in data science and finance.
 - 🌱 I'm constantly learning and staying updated with the latest developments in the field.
 - 💞️ I'm open to collaboration on projects related to data science, analytics, and finance.
